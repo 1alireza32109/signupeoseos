@@ -1,2 +1,1 @@
-
-https://github.com/nuxt/create-nuxt-app
+**router.js**
