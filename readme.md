@@ -73,4 +73,4 @@ If you have any feedback or question regarding the registration process or sourc
 @ Github
 ```
 
-![img](https://cdn-images-1.medium.com/max/800/1*tYygDZBdBWzm1hm_sajFMA.png)**DappPub: Unleashing the power of DApps**
+![img](https://cdn-images-1.medium.com/max/800/1*tYyg]DZBdBWzm1hm_sajFMA.png)**DappPub: Unleashing the power of DApps**router.js**
